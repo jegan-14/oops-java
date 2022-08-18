@@ -5,10 +5,10 @@ public class JavaExpNo1 {
         int a=Integer.valueOf(args[0]);
         int b=Integer.valueOf(args[1]);
        if(a>b) {
-            System.out.println(b);
+            System.out.println(b+" is minimum");
         }
          else {
-            System.out.println(a);
+            System.out.println(a+" is minimum");
        }
     }
     
